@@ -1,0 +1,16 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator project using JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["calculator", "math", "javascript"],
+  "author": "peppss77",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.0"
+  }
+}
